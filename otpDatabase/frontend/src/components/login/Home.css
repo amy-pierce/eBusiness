@@ -1,0 +1,21 @@
+
+.button {
+    
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 20px;
+    position:center;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+}
+.button1{
+    border-radius:30%;
+}
+
+h1{
+    font-size:20px;
+}
